@@ -71,7 +71,7 @@ public class TerrainGenerator : MonoBehaviour
             {
                 ClearTerrain();
                 spwn = true;
-                cnt = 0.4f;
+                cnt = 0.49f;
             }
         }
     }
